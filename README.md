@@ -71,3 +71,14 @@ Fetch and store latest news from all sources:
 ```bash
 php artisan news:fetch
 ```
+
+### Run Project 
+Start the server to test the Laravel application 
+```bash
+php artisan serve
+```
+
+Go to this link to check the latest news
+```bash
+http://127.0.0.1:8000
+```
